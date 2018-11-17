@@ -1,0 +1,26 @@
+{
+  "name": "water-bottle",
+  "version": "1.0.0",
+  "description": "Play with a bottle",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iREDMe/water-bottle.git"
+  },
+  "keywords": [
+    "bottle",
+    "water",
+    "water bottle",
+    "water-bottle",
+    "waterbottle"
+  ],
+  "author": "iREDMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iREDMe/water-bottle/issues"
+  },
+  "homepage": "https://github.com/iREDMe/water-bottle#readme"
+}
